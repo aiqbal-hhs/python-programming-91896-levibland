@@ -1,2 +1,2 @@
 # DGT100-Python
-## A repo with a lot of dumb python coded
+## A repo with a lot of dumb python code
