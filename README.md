@@ -14,5 +14,5 @@ while.py executes a while loop
 fizzbuzz.py loops through the numbers 1-100 and prints fizz if n % 3 == true, prints buzz if n % 5 == true, prints FizzBuzz if n % 3 == true && n % 5 == true, and prints the actual number if none of these conditions are met.
 
 ### fizzbuzz/:
-longfizzbuzz.py dies the same thing as fizzbuzz.py but you can customize what numbers to print Fizz and Buzz, as well the ability to change the range that the fizzbuzz code is looped through.
+longfizzbuzz.py does the same thing as fizzbuzz.py but you can customize what numbers print Fizz and Buzz, as well the ability to change the range of the main for loop.
 
