@@ -15,3 +15,8 @@ fizzbuzz.py loops through the numbers 1-100 and prints fizz if n % 3 == true, pr
 ### fizzbuzz/:
 longfizzbuzz.py does the same thing as fizzbuzz.py but you can customize what numbers print Fizz and Buzz, as well the ability to change the range of the main for loop.
 
+### random/:
+cards.py prints a list of cards in a ranodm order.
+
+### random/:
+responses.py prints a random response when you name is entered.
