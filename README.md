@@ -23,3 +23,6 @@ responses.py prints a random response when you name is entered.
 
 ### math/:
 operators.py uses all arithmetic operators and prints all the results of the operations.
+
+### math/:
+bitwiseoperators.py shows example uses of bitwise operators.
