@@ -26,3 +26,6 @@ operators.py uses all arithmetic operators and prints all the results of the ope
 
 ### math/:
 bitwiseoperators.py shows example uses of bitwise operators.
+
+### lists/:
+duplicates.py removes duplicate items from a list that is passed as a parameter in the rmdup function.
