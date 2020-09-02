@@ -9,6 +9,9 @@ for.py executes a for loop
 ### loops/: 
 while.py executes a while loop
 
+### loops/:
+while2.py is a while loop that behaves like a for loop.
+
 ### fizzbuzz/: 
 fizzbuzz.py loops through the numbers 1-100 and prints fizz if n % 3 == true, prints buzz if n % 5 == true, prints FizzBuzz if n % 3 == true && n % 5 == true, and prints the actual number if none of these conditions are met.
 
