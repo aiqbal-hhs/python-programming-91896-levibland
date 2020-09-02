@@ -33,6 +33,9 @@ bitwiseoperators.py shows example uses of bitwise operators.
 ### lists/:
 duplicates.py removes duplicate items from a list that is passed as a parameter in the rmdup function.
 
+### classes/:
+person.py is an example of a person class.
+
 ### lists/:
 printlist.py prints the contents of a list recursively.
 
