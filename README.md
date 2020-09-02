@@ -29,3 +29,9 @@ bitwiseoperators.py shows example uses of bitwise operators.
 
 ### lists/:
 duplicates.py removes duplicate items from a list that is passed as a parameter in the rmdup function.
+
+### lists/:
+printlist.py prints the contents of a list recursively.
+
+### login/:
+login.py, a simple text based login system.
