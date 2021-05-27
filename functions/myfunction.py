@@ -1,4 +1,4 @@
 def my_function():
-  print("Hello form a function!\n")
+  print("Hello from a function!\n")
 
 my_function()
