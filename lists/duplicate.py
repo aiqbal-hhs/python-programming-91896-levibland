@@ -1,5 +1,6 @@
 # python script that removes duplicate items from a list
 
+# @param list the list to check for dups
 def rmdup(list):
     l = []
     if list:
