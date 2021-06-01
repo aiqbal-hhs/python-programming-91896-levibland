@@ -1,7 +1,8 @@
 # Login program
+# this has horrible variable names that can not be understood
 
-username = "bruh"
-password = "cena"
+USERNAME = "bruh"
+PASSWORD = "cena"
 ticker = True
 uticker = True
 pticker = True
