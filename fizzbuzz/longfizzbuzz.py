@@ -1,4 +1,5 @@
 # An easily alterable version of fizzbuzz
+# Change the hashmap passed to the function to get a different of FizzBuzz
 def FizzBuzz(mults, *args):	# The *args parameter is for setting the amount of times to loop through the fizzbuzz code
 				# The mults parameter is for specifying the numbers that will result in Fizz or Buzz
 	for i in range(*args):
