@@ -3,5 +3,6 @@ i = 0
 
 while i < 10:
     print(i)
+    print("I hate you.")
 
     i += 1
