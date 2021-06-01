@@ -19,3 +19,6 @@ print(tyrone.age)
 print(tyrone.fname)
 print(tyrone.sname)
 print(tyrone.job)
+
+# intentionally spelt wrong
+tyrone.greet("Hello jonh cena")
