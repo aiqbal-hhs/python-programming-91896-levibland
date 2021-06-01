@@ -1,4 +1,4 @@
-## Constatly print I hate you
+## Constantly print I hate you
 
 while True:
     print("I hate you.")
