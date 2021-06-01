@@ -7,7 +7,7 @@ while tries > 0:
     if uin == ANSWER:
         print(f"Your answer, {uin}, is the correct answer.\n") # NOTE TO READERS: f"{uin}" is the same as "{}".format(uin), fstrings are a more modern way of
                                                                # formatting print statements and strings in general.
-        tries = 0
+        tries = 0   # exit the loop
     else:
         print(f"Your answer, {uin}, is not the corrrect answer.\n")
         tries -= 1
