@@ -2,4 +2,4 @@
 
 ## Scripts made for DGT200 python
 
-This repository contains all the scripts created in DGT200.
+This repository contains all the python scripts created in DGT200.
